@@ -1,5 +1,5 @@
 # Universal-Web-Scraper
-⚒️Working Progress..
+⚒️Working in progress..
 
 
 # ***`Small Overview:`***
